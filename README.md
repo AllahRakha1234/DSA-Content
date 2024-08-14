@@ -1,1 +1,1 @@
-# This repo stores DSA content created during semester.
+This repo stores DSA content created during semester.
